@@ -10,4 +10,6 @@ phenoData.csv contains the phenoData.csv for each sample.
 
 .gitignore contains the untracked files that should be ignored.
 
-440_lockwood_myers_project.py contains the source code for generating heatmap that compares transcriptomics RNAseq data from the left ventricle (LV) tissue of both normal functioning (NF) and hypertrophic cardiomyopathy (HCM) hearts. This code is specific to the data structure as presented by Morely et al and was written using the Google CoLab ide. Therefore, to run this code one would need to alter file paths etc when uploading data into python.
+lockwood_myers_heatmap contains a jpg figure of the heatmap.
+
+440_lockwood_myers_project.py contains the source code (python 3.6.3) for generating heatmap that compares transcriptomics RNAseq data from the left ventricle (LV) tissue of both normal functioning (NF) and hypertrophic cardiomyopathy (HCM) hearts. This code is specific to the data structure as presented by Morely et al and was written using the Google CoLab ide. Therefore, to run this code one would need to alter file paths etc when uploading data.
